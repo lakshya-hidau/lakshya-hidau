@@ -35,8 +35,7 @@ I'm a passionate developer specializing in **full-stack web development** and **
 ### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
 
 ### Non-Technical Skills
 ![Communication](https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge&logo=notion&logoColor=white)
