@@ -60,9 +60,14 @@ I'm a passionate developer specializing in **full-stack web development** and **
 
 ## Project Highlights
 
-- 🌟 [Project Name 1](link) - Brief description (Tech used)
-- 🌟 [Project Name 2](link) - Brief description (Tech used)
-- 🌟 [Project Name 3](link) - Brief description (Tech used)
+- 🌟 [DocuMind — AI Document Q&A System](https://github.com/lakshya-hidau/DocuMind---AI-Document-Q-A-System) - *Python · FastAPI · LangChain · FAISS · HuggingFace · LLaMA*  
+  - Built a RAG-based system for contextual document question answering  
+  - Enabled fast semantic retrieval using FAISS and real-time LLM responses 
+- 🌟 [AI SQL Assistant](https://github.com/lakshya-hidau/AI-SQL-Assistant-Using-Generative-AI) - *Python · Streamlit · Google Gemini · SQLite*  
+  - Converted natural language queries into executable SQL  
+  - Enabled real-time querying on user-uploaded databases  
+- 🌟 [QuickShrink — URL Shortener](https://github.com/lakshya-hidau/QuickShrink) - *Java · Spring Boot · React · MySQL*  
+  - Built scalable URL shortening service with analytics and JWT authentication  
 
 ## Development Philosophy
 
